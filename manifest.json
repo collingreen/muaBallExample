@@ -1,0 +1,16 @@
+{
+  "appID": "df1a0f3223a44a238ce25433474500f0",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v2.4.0",
+    "devkit-mua": "https://github.com/collingreen/devkit-mua"
+  },
+  "shortName": "muaBallExample",
+  "studio": {
+    "domain": "muagames.com",
+    "name": "muagames"
+  },
+  "supportedOrientations": [
+    "portrait"
+  ],
+  "title": "muaBallExample"
+}
